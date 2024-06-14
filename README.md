@@ -5,7 +5,11 @@ An ETL pipeline of S3 to Spark to Snowflake.
 ## Overview
 This project implements an ETL pipeline that extracts JSON data from an S3 bucket, transforms it using Apache Spark, and loads it into a Snowflake database. 
 
-The json files uploaded to S3 can be viewed here (/jsonFilesInS3). They are a trimmed version of https://randomuser.me/api/ output.
+The json files uploaded to S3 can be viewed here [jsonFilesInS3](jsonFilesInS3). They are a trimmed version of https://randomuser.me/api/ output.
+<br>
+The terminal output of the ETL pipeline is found in [terminalOutput.txt](terminalOutput.txt).
+<br>
+The loaded Snowflake output images can be found in [snowflakeOutput](snowflakeOutput)
 
 <b>Extract</b>: Extract JSON data files from AWS S3.
 
@@ -14,9 +18,6 @@ The json files uploaded to S3 can be viewed here (/jsonFilesInS3). They are a tr
 <b>Load</b>: Load the transformed data into Snowflake.
 
 To run this code please set up your AWS S3 and Snowflake accounts and Snowflake database.
-
-The terminal output of the ETL pipeline is found in terminalOutput.txt.
-The loaded Snowflake output images can be found in /snowflakeOutput
 
 ## Technologies Used
 

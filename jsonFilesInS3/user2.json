@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "first": "Fatih",
+        "last": "Önür"
+      },
+      "location": {
+        "street": "1625 Tunalı Hilmi Cd",
+        "city": "Muş",
+        "state": "Ağrı",
+        "country": "Turkey",
+        "postcode": 10439
+      },
+      "email": "fatih.onur@example.com",
+      "dob": "1987-05-19",
+      "registered": "2003-09-24",
+      "phone": "(003)-464-2725"
+    }
+  ]
+}

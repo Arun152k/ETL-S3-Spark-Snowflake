@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "first": "Shahistha",
+        "last": "Nair"
+      },
+      "location": {
+        "street": "1871 Carter Rd Promenade",
+        "city": "Guwahati",
+        "state": "Haryana",
+        "country": "India",
+        "postcode": 45018
+      },
+      "email": "shahistha.nair@example.com",
+      "dob": "1960-09-07",
+      "registered": "2006-07-06",
+      "phone": "8399279924"
+    }
+  ]
+}
